@@ -1,0 +1,62 @@
+[
+    {
+        "bookid": "B001",
+        "booktitle": "To Kill A Mockingbird",
+        "bookauthor": "Harper Lee",
+        "status": "available"
+    },
+    {
+        "bookid": "B002",
+        "booktitle": "Mungli",
+        "bookauthor": "Kozla",
+        "status": "available"
+    },
+    {
+        "bookid": "B003",
+        "booktitle": "The Hunger Games",
+        "bookauthor": "Suzanne Collins",
+        "status": "available"
+    },
+    {
+        "bookid": "B004",
+        "booktitle": "City Of Bones ",
+        "bookauthor": " Cassandra Clare",
+        "status": "borrowed"
+    },
+    {
+        "bookid": "B005",
+        "booktitle": "Divergent",
+        "bookauthor": "Eliveronica Roth",
+        "status": "available"
+    },
+    {
+        "bookid": "B006",
+        "booktitle": "War And Peace.",
+        "bookauthor": " Leo Tolstoy",
+        "status": "available"
+    },
+    {
+        "bookid": "B007",
+        "booktitle": "Harry Potter Series",
+        "bookauthor": "Joanne Rowling",
+        "status": "borrowed"
+    },
+    {
+        "bookid": "B008",
+        "booktitle": "Mungli",
+        "bookauthor": "Kozlar",
+        "status": "available"
+    },
+    {
+        "bookid": "B009",
+        "booktitle": "Oydinda",
+        "bookauthor": "Abdulla Oripov",
+        "status": "available"
+    },
+    {
+        "bookid": "B010",
+        "booktitle": "Qora Ko'Zlar",
+        "bookauthor": "Primqul Qodirov",
+        "status": "available"
+    }
+]
